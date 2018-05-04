@@ -1,7 +1,7 @@
 # Vue去哪儿网App
 
 #### 项目介绍
-参照教程，利用MVue+Vuex搭建的demo
+参照教程，用Vue+一些小插件搭建的demo
 
 #### 搭建过程
 1.编辑index.html中的<meta>适配移动端
